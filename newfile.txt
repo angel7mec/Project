@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-welcome to git hub once more
-=======
->>>>>>> 458016d5e7aebcf650f2875c6e3044d93d00e5e6
